@@ -1,3 +1,5 @@
-﻿  源.cpp
-  ConsoleApplication2.vcxproj -> F:\C++程序设计原理与实践（基础篇）练习\ConsoleApplication2\Debug\ConsoleApplication2.exe
-  ConsoleApplication2.vcxproj -> F:\C++程序设计原理与实践（基础篇）练习\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
+﻿  迭代.cpp
+f:\c++程序设计原理与实践（基础篇）练习\create a triangle\迭代.cpp(169): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\c++程序设计原理与实践（基础篇）练习\create a triangle\迭代.cpp(170): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  ConsoleApplication2.vcxproj -> F:\C++程序设计原理与实践（基础篇）练习\Create a triangle\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> F:\C++程序设计原理与实践（基础篇）练习\Create a triangle\Debug\ConsoleApplication2.pdb (Full PDB)
